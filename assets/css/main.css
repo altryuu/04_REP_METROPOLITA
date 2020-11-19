@@ -4227,3 +4227,12 @@
 			}
 
 		}
+		#three {
+			display: none;
+		}
+		#four {
+			display: none;
+		}
+		#footer section {
+			display: none;
+		}
